@@ -1,2 +1,2 @@
-# iBATIS-Tutorial
+# iBatis教程
 iBATIS Tutorial
