@@ -9,3 +9,7 @@ iBatis是一个可以自动映射数据库和Java,.NET,Ruby on Rails对象的持
 
 ### 先决条件 ###
 在继续本教程之前，您应该可以很好地理解Java编程语言，而且你在处理SQL映射时，能够充分理解SQL和数据库概念。
+
+
+## 链接 ##
+- 下一节：[Overview](Overview.md)
