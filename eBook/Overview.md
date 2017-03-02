@@ -2,3 +2,7 @@ iBATIS 是一个持久层框架，它可以自动的映射SQL数据库和Java, .
 
 
 iBATIS 是一个轻量级框架和持久性API，用于持久化POJO（普通Java对象 Plain Old Java Objecgs）
+
+## 链接 ##
+- 上一节：[Home](Home.md)
+- 下一节：[Environment](Environment.md)
